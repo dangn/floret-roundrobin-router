@@ -1,0 +1,23 @@
+{
+  "name": "floret-roundrobin-router",
+  "version": "0.0.1",
+  "description": "Round-robin router for Floret actor library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dangn/floret-roundrobin-router.git"
+  },
+  "keywords": [
+    "actor",
+    "akka"
+  ],
+  "author": "Dang Nguyen <dangqnguyen@gmail.com> (https://github.com/dangn/floret)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dangn/floret-roundrobin-router/issues"
+  },
+  "homepage": "https://github.com/dangn/floret-roundrobin-router#readme"
+}
